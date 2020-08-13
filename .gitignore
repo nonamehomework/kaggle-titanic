@@ -130,3 +130,5 @@ dmypy.json
 
 # Temporary ignore vscode settings
 .vscode/settings.json
+
+./titanic*
